@@ -1,3 +1,8 @@
 <resources>
+    <!--Menu Names-->
     <string name="app_name">QueueForQuests</string>
+    <string name="myProfileName">My Profile</string>
+    <string name="myGroupsName">My Groups</string>
+    <string name="settingsName">Settings</string>
+    <string name="createName">Create Group</string>
 </resources>
