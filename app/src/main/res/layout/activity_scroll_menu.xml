@@ -4,11 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#C4C4C4"
     tools:context=".ScrollMenu">
 
     <ListView
         android:id="@+id/scrollView"
         android:layout_width="fill_parent"
-        android:layout_height="wrap_content"></ListView>
+        android:layout_height="wrap_content">
+    </ListView>
 
 </android.support.constraint.ConstraintLayout>
