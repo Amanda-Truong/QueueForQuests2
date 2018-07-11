@@ -5,4 +5,5 @@
     <string name="myGroupsName">My Groups</string>
     <string name="settingsName">Settings</string>
     <string name="createName">Create Group</string>
+    <string name="lookForGroup">Look for Group</string>
 </resources>
